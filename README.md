@@ -95,3 +95,6 @@ there are already setted 2 configurations and the generated apk as to be signed 
 
 - project/android.sbt: local project plugins for SBT
 - project/proguard.sbt: project related proguard dependency
+
+### Understanding Scala:
+http://danielwestheide.com/blog/2012/11/28/the-neophytes-guide-to-scala-part-2-extracting-sequences.html
