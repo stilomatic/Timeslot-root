@@ -1,9 +1,0 @@
-[0m[[0minfo[0m] [0mProcessing resources[0m
-[0m[[0mdebug[0m] [0mAll libs: List()[0m
-[0m[[0mdebug[0m] [0mAll packages: List()[0m
-[0m[[0mdebug[0m] [0mpackageForR: com.timeslot.activities[0m
-[0m[[0mdebug[0m] [0mproguard.txt: /Users/astilo1/IdeaProjects/Timeslot-root/target/android/intermediates/proguard/proguard.txt[0m
-[0m[[0mdebug[0m] [0mIn modified: Set(/Users/astilo1/IdeaProjects/Timeslot-root/target/android/intermediates/manifest/AndroidManifest.xml)[0m
-[0m[[0mdebug[0m] [0mInRemoved: Set()[0m
-[0m[[0mdebug[0m] [0mOut checked: Set(/Users/astilo1/IdeaProjects/Timeslot-root/target/android/generated/source/com/timeslot/activities/R.java, /Users/astilo1/IdeaProjects/Timeslot-root/target/android/generated/source/com/timeslot/activities/Manifest.java)[0m
-[0m[[0mdebug[0m] [0mOut modified: Set()[0m

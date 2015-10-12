@@ -18,7 +18,7 @@ To run correctly require:
 Macports `$ port install sbt`
 Homebrew `$ brew install sbt`
 
-Other OS: `http://www.scala-sbt.org/release/tutorial/Setup.html`
+Other OS: http://www.scala-sbt.org/release/tutorial/Setup.html
 
 ### Install android-sdk-plugin (necessary to build with SBT, Android projects)
 
@@ -44,7 +44,7 @@ exit nano and save the file
 
 ### Download and unzip Android SDK:
 
-`https://developer.android.com/sdk/index.html`
+https://developer.android.com/sdk/index.html
 
 ### Set $ANDROID_HOME environment value:
 edit file in $HOME:
@@ -57,7 +57,7 @@ export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools`
 exit nano and save the file
 
 ### Install Idea 14 Community:
-`https://www.jetbrains.com/idea/download/`
+https://www.jetbrains.com/idea/download/
 
 install Idea's plugins:
 click: preferences/plugins/browse repositories

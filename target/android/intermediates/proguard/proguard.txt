@@ -1,6 +1,0 @@
-# view AndroidManifest.xml #generated:19
--keep class android.test.InstrumentationTestRunner { <init>(...); }
-
-# view AndroidManifest.xml #generated:10
--keep class com.timeslot.activities.MainActivity { <init>(...); }
-
