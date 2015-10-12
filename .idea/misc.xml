@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClientPropertiesManager">
+    <properties class="javax.swing.AbstractButton">
+      <property class="java.lang.Boolean" name="hideActionText" />
+    </properties>
+    <properties class="javax.swing.JComponent">
+      <property class="java.lang.Boolean" name="html.disable" />
+    </properties>
+    <properties class="javax.swing.JEditorPane">
+      <property class="java.lang.Boolean" name="JEditorPane.w3cLengthUnits" />
+      <property class="java.lang.Boolean" name="JEditorPane.honorDisplayProperties" />
+      <property class="java.lang.String" name="charset" />
+    </properties>
+    <properties class="javax.swing.JList">
+      <property class="java.lang.Boolean" name="List.isFileList" />
+    </properties>
+    <properties class="javax.swing.JPasswordField">
+      <property class="java.lang.Boolean" name="JPasswordField.cutCopyAllowed" />
+    </properties>
+    <properties class="javax.swing.JSlider">
+      <property class="java.lang.Boolean" name="Slider.paintThumbArrowShape" />
+      <property class="java.lang.Boolean" name="JSlider.isFilled" />
+    </properties>
+    <properties class="javax.swing.JTable">
+      <property class="java.lang.Boolean" name="Table.isFileList" />
+      <property class="java.lang.Boolean" name="JTable.autoStartsEdit" />
+      <property class="java.lang.Boolean" name="terminateEditOnFocusLost" />
+    </properties>
+    <properties class="javax.swing.JToolBar">
+      <property class="java.lang.Boolean" name="JToolBar.isRollover" />
+    </properties>
+    <properties class="javax.swing.JTree">
+      <property class="java.lang.String" name="JTree.lineStyle" />
+    </properties>
+    <properties class="javax.swing.text.JTextComponent">
+      <property class="java.lang.Double" name="caretAspectRatio" />
+      <property class="java.lang.Integer" name="caretWidth" />
+    </properties>
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting id="Add" value="true" />
+    <OptionsSetting id="Remove" value="true" />
+    <OptionsSetting id="Checkout" value="true" />
+    <OptionsSetting id="Update" value="true" />
+    <OptionsSetting id="Status" value="true" />
+    <OptionsSetting id="Edit" value="true" />
+    <ConfirmationsSetting id="Add" value="0" />
+    <ConfirmationsSetting id="Remove" value="0" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 21 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

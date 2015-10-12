@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.brianmckenna:wartremover_2.11:0.10:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.brianmckenna/wartremover_2.11/jars/wartremover_2.11-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.brianmckenna/wartremover_2.11/docs/wartremover_2.11-0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.brianmckenna/wartremover_2.11/srcs/wartremover_2.11-0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

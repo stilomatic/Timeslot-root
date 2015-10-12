@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest android:versionName="1.0" android:versionCode="1" package="com.timeslot.activities" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-sdk android:targetSdkVersion="23" android:minSdkVersion="23"/>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application android:label="Timeslot-android">
+        <activity android:name="com.timeslot.activities.MainActivity"/>
+
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN"/>
+
+            <category android:name="android.intent.category.LAUNCHER"/>
+        </intent-filter>
+    <uses-library android:name="android.test.runner"/></application>
+
+<instrumentation android:name="android.test.InstrumentationTestRunner" android:label="Test Runner" android:targetPackage="com.timeslot.activities"/></manifest>
