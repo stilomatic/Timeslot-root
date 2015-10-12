@@ -4,7 +4,7 @@
 		module="timeslot-root-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20151009150908"
+		publication="20151012160924"
 		e:scalaVersion="2.10" e:sbtVersion="0.13"
 	>
 		<description>
