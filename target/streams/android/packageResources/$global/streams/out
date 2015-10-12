@@ -1,0 +1,5 @@
+[info] Packaging resources: resources-debug.ap_
+[debug] All libs: List()
+[debug] All packages: List()
+[debug] packageForR: com.timeslot.activities
+[debug] proguard.txt: /Users/astilo1/IdeaProjects/Timeslot-root/target/android/intermediates/proguard/proguard.txt
