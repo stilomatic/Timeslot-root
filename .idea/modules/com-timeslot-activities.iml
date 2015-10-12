@@ -25,7 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../target/android/generated/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/android/generated/source" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala-2.11" isTestSource="true" />

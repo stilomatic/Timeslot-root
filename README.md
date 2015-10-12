@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Scala in Android with SBT using IDEA 14
 
 This document assume to work under MacOsx 10.10.0:
@@ -99,7 +99,4 @@ there are already setted 2 configurations and the generated apk as to be signed 
 
 ### Understanding Scala:
 http://danielwestheide.com/blog/2012/11/28/the-neophytes-guide-to-scala-part-2-extracting-sequences.html
-=======
-# Timeslot-root
-Android, Scala, SBT, Proguard, Idea 14 base project
->>>>>>> 10861759bdffaddacb4f7841eefdd055086f7d5b
+
